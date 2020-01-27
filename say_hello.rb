@@ -1,1 +1,4 @@
-# Build your say_hello method here
+# 
+def greeting(name ="Ruby programmer", lanuguage="Ruby")
+  puts "Hello, #{name}."
+end
